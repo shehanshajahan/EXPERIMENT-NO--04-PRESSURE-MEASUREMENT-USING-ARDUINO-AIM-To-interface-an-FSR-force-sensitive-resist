@@ -80,9 +80,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *your roll no - 212223240154
- * your name - Shehan Shajahan
- * department and year - Artificial Intelligence And Machine Learning
+Your roll no - 212223240154
+Your name - Shehan Shajahan
+Department and year - Artificial Intelligence And Machine Learning
 ```
 int LED=7;
 int FSR;
@@ -112,9 +112,6 @@ void loop()
 }
 ``` 
 
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
-
-
 ### TABLE -02 standard deviation table 
 ![3](https://github.com/shehanshajahan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/139317389/86460178-11fe-48b3-8528-57b0342bff49)
 
@@ -141,20 +138,13 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 ### Output Of Simulation:
 ## On Simulation:
+![Screenshot 2024-03-08 212853](https://github.com/shehanshajahan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/139317389/ab7265cc-bd29-4115-9806-88b3dda40f04)
+## Off Simulation:
+![Screenshot 2024-03-08 212914](https://github.com/shehanshajahan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/139317389/f7e12113-6bb3-4914-88de-701f741ebe53)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+### Schematic Representation :
+![Screenshot 2024-03-08 213143](https://github.com/shehanshajahan/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/139317389/5d156563-ae43-4abc-a48e-07ea369a814a)
 
 
 ### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
